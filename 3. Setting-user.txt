@@ -1,7 +1,25 @@
 {
-    "always_show_minimap_viewport": true,
+	"auto_complete": false,
+	"auto_indent": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		79
+	],
+	"smart_indent": true,
+	"sublimelinter": false,
+	"tab_size": 4,
+	"trim_automatic_white_space": true,
+	"use_tab_stops": true,
+	"word_wrap": true,
+	"wrap_width": 80,
+	"always_show_minimap_viewport": true,
     "bold_folder_labels": true,
-    "color_scheme": "Packages/User/Tomorrow-Night-Eighties (SL) (Flake8Lint).tmTheme",
     "default_line_ending": "unix",
     "ensure_newline_at_eof_on_save": true,
     "font_size": 12,
@@ -18,3 +36,4 @@
     "trim_trailing_white_space_on_save": true,
     "update_check": false
 }
+

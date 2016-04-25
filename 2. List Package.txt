@@ -1,0 +1,6 @@
+Tomorrow Color Scheme
+SideBarEnhancements
+Djaneiro
+SublimeLinter
+Markdown Preview
+

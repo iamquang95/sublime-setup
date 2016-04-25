@@ -1,0 +1,2 @@
+Ctrl+`
+https://packagecontrol.io/installation#st3
